@@ -1,0 +1,30 @@
+{
+  "categories": [
+    { "id": 1, "name": "Electronics" },
+    { "id": 2, "name": "Clothing" },
+    { "id": 3, "name": "Books" }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Smartphone",
+      "categoryId": 1,
+      "price": 299,
+      "stock": 20
+    },
+    {
+      "id": 2,
+      "name": "Laptop",
+      "categoryId": 1,
+      "price": 799,
+      "stock": 0
+    },
+    {
+      "id": 3,
+      "name": "T-Shirt",
+      "categoryId": 2,
+      "price": 19,
+      "stock": 15
+    }
+  ]
+}
